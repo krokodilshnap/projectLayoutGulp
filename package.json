@@ -12,7 +12,7 @@
     "alertifyjs": "^1.11.4",
     "fancybox": "^3.0.1",
     "formstone": "^1.4.16-1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "swiper": "^4.5.0",
     "tippy.js": "^4.3.5"
   },
