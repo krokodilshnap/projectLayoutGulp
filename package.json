@@ -13,7 +13,7 @@
     "fancybox": "^3.0.1",
     "formstone": "^1.4.16-1",
     "jquery": "^3.4.1",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "tippy.js": "^4.3.5"
   },
   "devDependencies": {
